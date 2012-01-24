@@ -1,3 +1,12 @@
+# Update (24Jan 2011)
+This is a fork of the CSS3 FB buttons.
+
+The main change in this fork is that it's using a SASS stylesheet and not regular CSS.
+
+This is better since you can customize it easily and you don't need to remember all the CSS3 rules for all browsers, all you need is just the compass import.
+
+This wasn't merged into the main repo, so grab it from here if you wish.
+
 # CSS3 Facebook-style Buttons #
 
 Example: [nicolasgallagher.com/lab/css3-facebook-buttons/](http://nicolasgallagher.com/lab/css3-facebook-buttons/)
